@@ -1,0 +1,62 @@
+# THIS IS USED FOR TESTING tester.py
+
+[server][info] Running client on level: levels/Communication26.lvl
+smallestN: 4
+Found solution of length 16.
+Move(E)Move(E)|NoOpNoOp|Move(N)Move(N)
+Move(E)Move(E)|NoOpNoOp|Move(S)Move(S)
+Move(E)Move(E)|NoOpNoOp|Move(N)Move(N)
+Move(E)Move(E)|NoOpNoOp|Move(W)Move(W)
+Pull(N,N)Pull(N,N)|NoOpNoOp|Move(W)Move(W)
+Pull(N,N)Pull(N,N)|NoOpNoOp|Move(N)Move(N)
+Pull(W,N)Pull(W,N)|Move(W)Move(W)|NoOpNoOp
+Move(S)Move(S)|Move(W)Move(W)|Move(N)Move(N)
+Move(W)Move(W)|Move(W)Move(W)|Move(E)Move(E)
+Move(W)Move(W)|Move(N)Move(N)|Move(N)Move(N)
+Move(W)Move(W)|Move(N)Move(N)|Move(E)Move(E)
+Move(W)Move(W)|Move(N)Move(N)|Move(N)Move(N)
+Move(W)Move(W)|Move(N)Move(N)|NoOpNoOp
+Move(S)Move(S)|Move(W)Move(W)|NoOpNoOp
+Move(W)Move(W)|Move(W)Move(W)|NoOpNoOp
+Move(W)Move(W)|Move(N)Move(N)|NoOpNoOp
+[client][info] Waiting for client process to terminate by itself.
+[client][info] Client terminated.
+[server][info] Level solved: No.
+[server][info] Actions used: 16.
+[server][info] Time to solve: 1,114 seconds.
+
+javac searchclient/*.java
+java -jar mavis.jar -l levels/MAPF00.lvl -c "java -Xmx8g searchclient.SearchClient -astar -manhattan" -g -s 150 -t 180
+[server][info] Running client on level: levels/MAPF00.lvl
+SearchClient initializing. I am sending this using the error output stream.
+[client][message] This is a comment.
+heuristic method: manhattan
+Starting best-first search using A* evaluation.
+#Expanded:       48, #Frontier:        0, #Generated:       48, Time: 0,004 s
+[Used: 6,47 MB, Free: 129,53 MB, Alloc: 136,00 MB, MaxAlloc: 8192,00 MB]
+Found solution of length 14.
+[client][info] Waiting for client process to terminate by itself.
+[client][info] Client terminated.
+[server][info] Level solved: Yes.
+[server][info] Actions used: 14.
+[server][info] Time to solve: 0,032 seconds.
+
+[server][info] Running client on level: levels/MATest3
+client][info] Client timed out.
+[client][info] Sending termination signal to client process (PID = 81806).
+[server][info] Level solved: No.
+[server][info] Actions used: 0.
+[server][info] Time to solve: 0,000 seconds.
+
+[server][info] Running client on level: levels/RSC1.lvl
+Exception in thread "main" java.lang.RuntimeException: Not yet implemented!
+        at mapf.Resource_Conflict.<init>(Conflict.java:83)
+        at mapf.CTNode.validate(CTNode.java:264)
+        at mapf.CBS.searchforBDI(CBS.java:73)
+        at mapf.BDI.search(BDI.java:96)
+        at searchclient.SearchClient.main(SearchClient.java:226)
+[client][info] Waiting for client process to terminate by itself.
+[client][info] Client terminated.
+[server][info] Level solved: No.
+[server][info] Actions used: 0.
+[server][info] Time to solve: 0,000 seconds.

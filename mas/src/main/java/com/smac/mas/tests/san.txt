@@ -1,0 +1,14 @@
+complevels/AgentWayz.lvl
+complevels/FastCipka.lvl
+complevels/Goofy.lvl
+complevels/LoopLads.lvl
+complevels/NHL.lvl
+complevels/Naevis.lvl
+complevels/Persian.lvl
+complevels/RoboMatic.lvl
+complevels/Sixty.lvl
+complevels/Tryhard.lvl
+complevels/URAStar.lvl
+complevels/brAIn.lvl
+complevels/cbsSolve.lvl
+complevels/minotaur.lvl

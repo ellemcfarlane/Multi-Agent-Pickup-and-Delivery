@@ -1,0 +1,20 @@
+#domain
+hospital
+#levelname
+LazyTest3bSlow
+#colors
+blue: 0
+red: 1,2
+#initial
++++++++
++012  +
+++ ++++
+++ ++++
++++++++
+#goal
++++++++
++  210+
+++ ++++
+++ ++++
++++++++
+#end

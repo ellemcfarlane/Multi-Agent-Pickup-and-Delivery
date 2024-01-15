@@ -1,0 +1,3 @@
+levels/MAsimple3.lvl
+levels/MAsimple4.lvl
+levels/MAsimple5.lvl

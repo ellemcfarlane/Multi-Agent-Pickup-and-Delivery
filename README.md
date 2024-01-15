@@ -4,15 +4,16 @@ This is a multi-agent pickup and delivery solver for a custom domain involving d
 * modified version of conflict-based search (CBS) with FOCAL search to handle resource conflicts and communication
 * integer linear programming to assign packages to teams based on color, distance, and ordering constraints
 
-with architecture:
+### Example of a quickly-found but suboptimal solution for a level involving communication between agents:
+<p align="center">
+  <img src="mas/media/communication_level_example.gif?raw=true" alt="MAS solution" width="1000"/>
+</p>
+
+### Architecture
 <p align="center">
   <img src="mas/media/architecture_black.png?raw=true" alt="MAS architecture"/>
 </p>
 
-Example of a suboptimal but quickly-solved solution involving communication between agents:
-<p align="center">
-  <img src="mas/media/communication_level_example.gif?raw=true" alt="MAS solution" width="1000"/>
-</p>
 
 # Installation
 * install gurobi optimizer at https://support.gurobi.com/hc/en-us/articles/4534161999889-How-do-I-install-Gurobi-Optimizer-

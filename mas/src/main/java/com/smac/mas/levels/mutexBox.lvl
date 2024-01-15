@@ -1,0 +1,22 @@
+#domain
+hospital
+#levelname
+mutex
+#colors
+blue: 0, A
+red: 1, B
+#initial
++++++++
++ 0A  +
++1B   +
++     +
++     +
++++++++
+#goal
++++++++
++     +
++    1+
++   0B+
++   A +
++++++++
+#end

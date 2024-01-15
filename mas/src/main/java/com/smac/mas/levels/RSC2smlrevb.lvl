@@ -1,0 +1,19 @@
+#domain
+hospital
+#levelname
+RSC2smlrev
+#colors
+blue: 0,1,A
+#initial
+++++++++
++  1++++
++++ ++++
++0A    +
+++++++++
+#goal
+++++++++
++   ++++
++++ ++++
++   1 0+
+++++++++
+#end

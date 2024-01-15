@@ -1,0 +1,245 @@
+Level name: AIronMANN
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: GThirty
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: TwoSolve
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: AIMonkeys
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: cbsSolve
+Level solved: Yes.
+Actions used: 75.
+Time to solve: 0,274 seconds.
+
+Level name: OMNY
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: hashCrack
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: Kebabs
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: Sixty
+Level solved: Yes.
+Actions used: 26.
+Time to solve: 0,292 seconds.
+
+Level name: AgentWayz
+Level solved: Yes.
+Actions used: 67.
+Time to solve: 1,053 seconds.
+
+Level name: CINNAMON
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: RoboMatic
+Level solved: Yes.
+Actions used: 13.
+Time to solve: 0,082 seconds.
+
+Level name: BigDumDum
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: Naevis
+Level solved: Yes.
+Actions used: 126.
+Time to solve: 0,451 seconds.
+
+Level name: Amogus
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: FastCipka
+Level solved: Yes.
+Actions used: 133.
+Time to solve: 0,311 seconds.
+
+Level name: Tryhard
+Level solved: Yes.
+Actions used: 33.
+Time to solve: 0,187 seconds.
+
+Level name: SoftBoys
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: JustPanic
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: GiveSnack
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: corridors
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: NoOp
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: TreOTres
+Level solved: Yes.
+Actions used: 98.
+Time to solve: 64,338 seconds.
+
+Level name: TheMAtrix
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: VIA
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: TCPpp
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: mishmash
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: TeamLARM
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: BOSSMAn
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: Tahini
+Level solved: Yes.
+Actions used: 1.282.
+Time to solve: 1,796 seconds.
+
+Level name: BlahAI
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: Colada
+Level solved: Yes.
+Actions used: 37.
+Time to solve: 1,416 seconds.
+
+Level name: AIMASqln
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: minotaur
+Level solved: Yes.
+Actions used: 39.
+Time to solve: 0,386 seconds.
+
+Level name: GPTease
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: Damnation
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: AltFFour
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: Wallies
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: bugfarmer
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: brAIn
+Level solved: Yes.
+Actions used: 84.
+Time to solve: 0,347 seconds.
+
+Level name: SelfConf
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: Goofy
+Level solved: Yes.
+Actions used: 64.
+Time to solve: 10,665 seconds.
+
+Level name: URAStar
+Level solved: Yes.
+Actions used: 66.
+Time to solve: 0,230 seconds.
+
+Level name: Binions
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: WhatAGrid
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: Croissant
+Level solved: No.
+Actions used: 0.
+Time to solve: 0,000 seconds.
+
+Level name: Persian
+Level solved: Yes.
+Actions used: 112.
+Time to solve: 0,730 seconds.
+
+Level name: NHL
+Level solved: Yes.
+Actions used: 45.
+Time to solve: 0,188 seconds.
+
+Level name: LoopLads
+Level solved: Yes.
+Actions used: 191.
+Time to solve: 1,347 seconds.
+

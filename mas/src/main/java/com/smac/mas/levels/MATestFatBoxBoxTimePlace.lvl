@@ -1,0 +1,19 @@
+#domain
+hospital
+#levelname
+MATestFatBoxBoxTimePlace
+#colors
+blue: 0,1,A,B
+#initial
++++++++
++0A B1+
++++ +++
++++ +++
++++++++
+#goal
++++++++
++ B  A+
++++ +++
++++ +++
++++++++
+#end

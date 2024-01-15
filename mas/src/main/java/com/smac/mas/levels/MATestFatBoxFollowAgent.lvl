@@ -1,0 +1,20 @@
+#domain
+hospital
+#levelname
+MATestFatBoxFollowAgent
+#colors
+blue: 1
+red: 0,A
+#initial
++++++++
++  1+++
++++A+++
++++0+++
++++++++
+#goal
++++++++
++ 1A+++
++++ +++
++++ +++
++++++++
+#end

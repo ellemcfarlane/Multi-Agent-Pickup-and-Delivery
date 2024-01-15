@@ -1,0 +1,86 @@
+GIT COMMIT: 61f8e87
+
+python3 tests/tester.py -d -f "tests/test_levels.log"
+ERROR AIronMANN: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "java.util.HashMap.get(Object)" because the return value of "java.util.HashMap.get(Object)" is null
+
+ERROR GThirty: exception thrown: Exception in thread "main" java.lang.RuntimeException: DiffColorStaticBoxBoxConflict: not yet implemented!
+
+ERROR TwoSolve: timeout for level TwoSolve
+ERROR AIMonkeys: exception thrown: Exception in thread "main" java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+
+ERROR OMNY: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot load from int array because "<local32>" is null
+
+ERROR hashCrack: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local18>" is null
+
+ERROR Kebabs: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local18>" is null
+
+ERROR CINNAMON: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot load from int array because "<local32>" is null
+
+ERROR BigDumDum: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local10>" is null
+
+ERROR Amogus: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local18>" is null
+
+ERROR FastCipka: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "java.util.HashMap.get(Object)" because the return value of "java.util.HashMap.get(Object)" is null
+
+ERROR Tryhard: exception thrown: Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 78
+
+ERROR SoftBoys: timeout for level SoftBoys
+ERROR JustPanic: timeout for level JustPanic
+ERROR GiveSnack: timeout for level GiveSnack
+ERROR corridors: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot load from int array because "<local32>" is null
+
+ERROR NoOp: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot load from int array because "<local32>" is null
+
+ERROR TreOTres: timeout for level TreOTres
+ERROR TheMAtrix: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local10>" is null
+
+ERROR VIA: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local18>" is null
+
+ERROR TCPpp: timeout for level TCPpp
+ERROR mishmash: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot load from int array because "<local32>" is null
+
+ERROR TeamLARM: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot load from int array because "<local32>" is null
+
+ERROR BOSSMAn: timeout for level BOSSMAn
+ERROR Tahini: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local10>" is null
+
+ERROR BlahAI: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local18>" is null
+
+ERROR Colada: exception thrown: Exception in thread "main" java.lang.RuntimeException: DiffColorStaticBoxBoxConflict: not yet implemented!
+
+ERROR AIMASqln: timeout for level AIMASqln
+ERROR minotaur: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "java.util.HashMap.get(Object)" because the return value of "java.util.HashMap.get(Object)" is null
+
+ERROR GPTease: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot load from int array because "<local32>" is null
+
+ERROR Damnation: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local18>" is null
+
+ERROR AltFFour: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local9>.pickupGuy" is null
+
+ERROR Wallies: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot load from int array because "<local32>" is null
+
+ERROR SelfConf: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "java.util.HashMap.get(Object)" because the return value of "java.util.HashMap.get(Object)" is null
+
+ERROR Goofy: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local18>" is null
+
+ERROR Binions: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local9>.pickupGuy" is null
+
+ERROR WhatAGrid: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local9>.pickupGuy" is null
+
+ERROR Croissant: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot load from int array because "<local32>" is null
+
+ERROR LoopLads: exception thrown: Exception in thread "main" java.lang.NullPointerException: Cannot invoke "mapf.Agent.getAgentNumber()" because "<local10>" is null
+
+
+total time for client to find what it thinks is a solution for all levels: 3.515
+
+Passed levels:
+cbsSolve
+Sixty
+AgentWayz
+RoboMatic
+Naevis
+brAIn
+URAStar
+Persian
+NHL

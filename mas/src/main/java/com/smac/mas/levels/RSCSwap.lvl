@@ -1,0 +1,19 @@
+#domain
+hospital
+#levelname
+RSCSwap
+#colors
+blue: 0,1,A
+#initial
++++++
++0A1+
+++ ++
+++ ++
++++++
+#goal
++++++
++1A0+
+++ ++
+++ ++
++++++
+#end

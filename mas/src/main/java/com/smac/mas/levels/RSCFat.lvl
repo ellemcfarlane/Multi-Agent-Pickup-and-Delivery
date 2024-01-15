@@ -1,0 +1,17 @@
+#domain
+hospital
+#levelname
+RSCFat
+#colors
+blue: 0,1,A
+#initial
++++++++
++ 0A  +
++++1+++
++++++++
+#goal
++++++++
++0A1  +
++++ +++
++++++++
+#end

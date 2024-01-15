@@ -1,0 +1,12 @@
+**/*.class
+**/*.metadata
+**/.DS_Store
+**/*.log
+!**/test.log
+**/__pycache__
+**/benchmarklevels
+**/automatically_generated_test_levels
+target
+!target/*SNAPSHOT.jar
+src/lib
+env_vars.mk

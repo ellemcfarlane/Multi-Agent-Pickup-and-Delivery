@@ -1,0 +1,18 @@
+#domain
+hospital
+#levelname
+LazyTest2
+#colors
+blue: 0
+red: 1
+#initial
+++++++
++01  +
+++ +++
+++++++
+#goal
+++++++
++  10+
+++ +++
+++++++
+#end
