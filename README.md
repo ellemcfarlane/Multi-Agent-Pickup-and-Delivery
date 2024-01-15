@@ -1,13 +1,18 @@
 
 # Multi-Agent-Pickup-and-Delivery
-This is a multi-agent pickup and delivery solver for a custom domain with the following architecture: 
+This is a multi-agent pickup and delivery solver for a custom domain involving different colored teams of agents that need to deliver their colored packages to their corresponding colored depots. The client solver uses:
+* modified version of conflict-based search (CBS) with FOCAL search to handle resource conflicts and communication
+* integer linear programming to assign packages to teams based on color, distance, and ordering constraints
+
+with architecture:
 <p align="center">
   <img src="mas/media/architecture_black.png?raw=true" alt="MAS architecture"/>
 </p>
 
-uses:
-* modified version of conflict-based search (CBS) with FOCAL search to handle resource conflicts and communication
-* integer linear programming to assign packages to teams based on color, distance, and ordering constraints
+Example of a suboptimal but quickly-solved solution involving communication between agents:
+<p align="center">
+  <img src="mas/media/communication_level_example.gif?raw=true" alt="MAS solution" width="1000"/>
+</p>
 
 # Installation
 * install gurobi optimizer at https://support.gurobi.com/hc/en-us/articles/4534161999889-How-do-I-install-Gurobi-Optimizer-
